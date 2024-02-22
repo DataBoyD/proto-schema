@@ -1,4 +1,4 @@
-module proto-schema
+module github.com/DataBoyD/proto-schema
 
 go 1.20
 
